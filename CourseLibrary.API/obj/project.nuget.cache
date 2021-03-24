@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8ovaLjIVZhvleS03R7LtmdJKd5yqMtZUc7f59KtcvHuwgqR0Tokkl+sZR7tD0ouBRIL95A4wu1bUfFGNSvUuA==",
+  "dgSpecHash": "BzzkKOcf2gZFEIM3N90eHHIJIH8XsgecPo29vj0aogU6Yx2FQdp+8ONkEvOU4QuDX8zYFreVAX7+rNy31oeUYA==",
   "success": true,
-  "projectFilePath": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+  "projectFilePath": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.APi\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
