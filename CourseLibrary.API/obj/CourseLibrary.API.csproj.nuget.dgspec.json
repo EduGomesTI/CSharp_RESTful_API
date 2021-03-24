@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.APi\\CourseLibrary.API.csproj": {}
+    "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.APi\\CourseLibrary.API.csproj": {
+    "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.API\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.APi\\CourseLibrary.API.csproj",
+        "projectUniqueName": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.APi\\CourseLibrary.API.csproj",
+        "projectPath": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.APi\\obj\\",
+        "outputPath": "H:\\developer\\GitHub\\RESTful_API\\CourseLibrary.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
